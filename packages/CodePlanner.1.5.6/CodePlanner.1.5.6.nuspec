@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>CodePlanner</id>
+    <version>1.5.6</version>
+    <title>CodePlanner</title>
+    <authors>Uffe Björklund</authors>
+    <owners>Uffe Björklund</owners>
+    <licenseUrl>http://codeplanner.codeplex.com/license</licenseUrl>
+    <projectUrl>http://codeplanner.codeplex.com/</projectUrl>
+    <iconUrl>http://download.codeplex.com/download/Avatar.ashx?DownloadId=306852</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Using the power fo T4Scaffolding and Powershell to give you a 3-layers backend based on your domainmodel. Will also be able to scaffold JavaScript viewmodel and Ninject examples</description>
+    <summary>Using the power fo T4Scaffolding and Powershell to give you a 3-layers backend based on your domainmodel. Will also be able to scaffold JavaScript viewmodel and Ninject examples</summary>
+    <releaseNotes>- Buggfixes for scaffolding viewmodels
+- Improved validation
+- Scaffolds viewmodel (C#)
+- Scaffolds viewmodel (JavaScript, knockoutjs)
+- Scaffolds Ninject example for binding in MVC
+- Scaffolds Ninject module and examples
+- Scaffolds WebSocketControllers
+- Scaffolds JavaScript for calling WebSocketControllers</releaseNotes>
+    <copyright>Ulf Tomas Björklund</copyright>
+    <tags>Scaffolding T4 Architecture CodePlanner WebSockets</tags>
+    <dependencies>
+      <dependency id="T4Scaffolding" version="1.0.8" />
+      <dependency id="EntityFramework" version="5.0" />
+    </dependencies>
+    <references />
+  </metadata>
+</package>

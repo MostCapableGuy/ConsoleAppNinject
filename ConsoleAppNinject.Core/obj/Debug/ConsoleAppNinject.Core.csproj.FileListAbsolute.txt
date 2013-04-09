@@ -1,7 +1,0 @@
-C:\Users\Uffe\Desktop\ConsoleAppNinject\ConsoleAppNinject.Core\bin\Debug\ConsoleAppNinject.Core.dll.config
-C:\Users\Uffe\Desktop\ConsoleAppNinject\ConsoleAppNinject.Core\bin\Debug\ConsoleAppNinject.Core.dll
-C:\Users\Uffe\Desktop\ConsoleAppNinject\ConsoleAppNinject.Core\bin\Debug\ConsoleAppNinject.Core.pdb
-C:\Users\Uffe\Desktop\ConsoleAppNinject\ConsoleAppNinject.Core\bin\Debug\EntityFramework.dll
-C:\Users\Uffe\Desktop\ConsoleAppNinject\ConsoleAppNinject.Core\bin\Debug\EntityFramework.xml
-C:\Users\Uffe\Desktop\ConsoleAppNinject\ConsoleAppNinject.Core\obj\Debug\ConsoleAppNinject.Core.dll
-C:\Users\Uffe\Desktop\ConsoleAppNinject\ConsoleAppNinject.Core\obj\Debug\ConsoleAppNinject.Core.pdb
